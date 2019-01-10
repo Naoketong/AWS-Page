@@ -9,11 +9,22 @@ body{
 .aws-contanter{
 	width: 100%;
 	height: 100%;
-	
-	background-image: url(../img/banner.png);
+	margin:0 auto;
+	/*background-color: red;*/
+	/*background-image: url(../img/banner.png);*/
 	/*background-position: center;*/
+	font-size: 0;
 }
 .banner-section{
-	width: 100%;
+	width: 1000px;
+	height: 570px;
+	margin:0 auto;
+}
+.awards-section{
+	width: 1000px;
 	height: 500px;
+	margin:10px auto 0;
+	background-color: #fff;
+	border-radius: 10px;
+
 }
