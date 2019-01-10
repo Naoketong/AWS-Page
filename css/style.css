@@ -1,0 +1,19 @@
+*{
+	margin:0;
+	padding: 0;
+	box-sizing: border-box;
+}
+body{
+	background-color: #1097ff;
+}
+.aws-contanter{
+	width: 100%;
+	height: 100%;
+	
+	background-image: url(../img/banner.png);
+	/*background-position: center;*/
+}
+.banner-section{
+	width: 100%;
+	height: 500px;
+}
